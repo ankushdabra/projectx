@@ -1,2 +1,1 @@
-# projectx
-python development
+This is the first commit
